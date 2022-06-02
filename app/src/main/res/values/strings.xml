@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JokerGirl</string>
+
+    <string name="facebook_app_id">1067710430843951</string>
+    <string name="facebook_client_token">77e978520882d5dcfaeca2e2945b7c2b</string>
+    <string name="try_to_repeat">Try to repeat</string>
+    <string name="try_again">Try again</string>
+</resources>
